@@ -1,0 +1,19 @@
+{
+  "name": "electron-exploration",
+  "version": "0.1.0",
+  "description": "Exploration into ElectronJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finleywilliamsonV/electron-exploration.git"
+  },
+  "author": "Finley.Williamson@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finleywilliamsonV/electron-exploration/issues"
+  },
+  "homepage": "https://github.com/finleywilliamsonV/electron-exploration#readme"
+}
