@@ -6,12 +6,10 @@
   "scripts": {
     "postinstall": "install-app-deps",
     "start": "electron .",
-    "pack": "build --dir",
-    "dist": "build"
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
   },
   "build": {
-    "appId": "electronExploration",
-    "category": "AGILE.Electron.Exploration",
     "dmg": {
       "contents": [
         {
